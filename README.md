@@ -33,7 +33,7 @@ So to access your application on the browser
 
 
 
-### In case you want the image download directly, 
+### Download the Docker Image from Docker Hub.
 Download the image using:
 - docker pull ednahm/note_image
  
