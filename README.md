@@ -41,7 +41,7 @@ Then run the image as:
 - docker run -dp 3000:3000 ednahm/note_image
 
 Access your brower  to access the application.
--http://127.0.0.1:3000
+- http://127.0.0.1:3000
 
 Yeah,, you have your notemaking application.
 
