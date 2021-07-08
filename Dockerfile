@@ -2,7 +2,7 @@ FROM node:12-alpine
 
 RUN apk add --no-cache python g++ make
 
-WORKDIR /app
+WORKDIR /Note_Image
 
 COPY . . 
 
